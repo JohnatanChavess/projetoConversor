@@ -23,14 +23,19 @@ Este projeto é uma aplicação em Python que permite a conversão entre arquivo
    git clone https://github.com/JohnatanChavess/projetoConversor
 
 2. Navegue até o diretório do projeto:
+   
 cd seu-repositorio
 
-3. Crie e ative um ambiente virtual:
+4. Crie e ative um ambiente virtual:
+   
 python -m venv .venv
+
 source .venv/bin/activate  # Linux/MacOS
+
 .venv\Scripts\activate      # Windows
 
 4.Execute a aplicação:
+
 streamlit run app.py
 
 

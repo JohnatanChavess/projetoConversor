@@ -81,4 +81,4 @@ streamlit run app.py
 ![alt text](image-1.png)
 
 
-6. Abra o navegador e acesse http://localhost:8501 para usar a aplicação.
+6. Abra o navegador e acesse http://184.72.11.53:8501 para usar a aplicação.

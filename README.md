@@ -14,3 +14,6 @@ Este projeto é uma aplicação em Python que permite a conversão entre arquivo
 - **Python 3.7+**
 - **Pandas**: Para manipulação de dados.
 - **Streamlit**: Para criação da interface web interativa.
+
+
+![image](https://github.com/user-attachments/assets/02534dfe-a459-4ab9-8ea2-bd5e20cb7274)

@@ -11,9 +11,27 @@ Este projeto é uma aplicação em Python que permite a conversão entre arquivo
 
 ## Tecnologias Utilizadas
 
-- **Python 3.7+**
+- **Python**
 - **Pandas**: Para manipulação de dados.
 - **Streamlit**: Para criação da interface web interativa.
+
+
+## Como Executar
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/JohnatanChavess/projetoConversor
+
+2. Navegue até o diretório do projeto:
+cd seu-repositorio
+
+3. Crie e ative um ambiente virtual:
+python -m venv .venv
+source .venv/bin/activate  # Linux/MacOS
+.venv\Scripts\activate      # Windows
+
+4.Execute a aplicação:
+streamlit run app.py
 
 
 ![image](https://github.com/user-attachments/assets/02534dfe-a459-4ab9-8ea2-bd5e20cb7274)
